@@ -1,0 +1,280 @@
+#all{
+	width:1340px;
+	height:1350px;
+		background:#F2F2F2;
+}
+
+#h
+{
+	width: 1027px;
+	height:1350px;
+    margin: 0px;
+	padding: 0px;
+	background:#F2F2F2;
+	float:left;
+}
+#head
+{
+	width:1027px;
+	height:150px;
+	margin-bottom:10px;
+	background:url(top.png);
+}
+#title
+{
+	width:1027px;
+	height:40px;
+	margin-bottom:10px;
+	float:left;
+	background:url(shouye.png);
+}
+#body{
+	width:1027px;
+	height:900px;
+	margin-bottom:10px;
+	
+}
+#left{
+	width:329px;
+	height:900px;
+	margin-right:10px;
+	float:left;
+
+	
+}
+#l1{
+	width:329px;
+	height:290px;
+	margin-bottom:10px;
+	float:left;
+	background:#d8e9f9;
+	border-radius:15px 15px 15px 15px;
+}
+#a{
+	width: 329px;
+	height: 30px;
+	background: url(bg_1.png
+		);
+	img src:"more.gif"; 	
+	background-repeat:no-repeat;
+	float:left;
+}
+#a p
+{
+	color: white;
+	float: left;
+	margin-top: 5px;
+	font-size: 13px;
+	margin-left: 10px;
+}
+#l2{
+	width:329px;
+	float:left;
+	height:260px;
+	margin-bottom:10px;
+
+	
+}
+#jiaoxuegongzuo li a
+{
+	letter-spacing:-1px;
+	color: #000000;
+	font-size: 13px;
+	border-bottom: 1px dashed gray;
+	padding-bottom:3px;
+	text-decoration:none;/*去除超链接下滑线*/
+	margin-left:-5px; 
+}
+#jiaoxuegongzuo li a:hover
+{
+	color: red;
+	
+}
+#l3{
+	float:left;	
+	width:329px;
+	height:260px;
+	
+}
+#dangjiangongzuo li a
+{
+	letter-spacing:-1px;
+	color: #000000;
+	font-size: 13px;
+	border-bottom: 1px dashed gray;
+	padding-bottom:3px;
+	text-decoration:none;/*去除超链接下滑线*/
+	margin-left:-5px; 
+}
+#dangjiangongzuo li a:hover
+{
+	color: red;
+	
+}
+#middle{
+	width:329px;
+	height:900px;
+	margin-right:10px;
+	float:left;
+	
+}
+#b{
+	width: 329px;
+	height: 20px;
+	background: url(tong.png ); 
+		
+	
+	background-repeat:no-repeat;	
+	
+}
+#m1{
+	width:329px;
+	height:254px;
+	margin-bottom:10px;
+}
+#xueyuankuaixun li a	/*对超链接a标签进行控制*/
+{
+
+	color:#000000;
+	font-size: 13px;
+	margin-left:-5px; 
+	border-bottom: 1px dashed gray;
+	padding-bottom:3px;
+	text-decoration:none;/*去除超链接下滑线*/
+}
+#xueyuankuaixun li a:hover
+{
+	color: red;
+	
+}
+#m2{
+	width:329px;
+	height:284px;
+	margin-bottom:10px;
+	
+}
+#xuekekeyan li a	/*对超链接a标签进行控制*/
+{
+
+	color:#000000;
+	font-size: 13px;
+	margin-left:-5px; 
+	border-bottom: 1px dashed gray;
+	padding-bottom:3px;
+	text-decoration:none;/*去除超链接下滑线*/
+}
+#xuekekeyan li a:hover
+{
+	color: red;
+	
+}
+#m3{
+	width:329px;
+	height:2700px;
+}
+#xuetuangongzuo li a	/*对超链接a标签进行控制*/
+{
+
+	color:#000000;
+	font-size: 13px;
+	margin-left:-5px; 
+	border-bottom: 1px dashed gray;
+	padding-bottom:3px;
+	text-decoration:none;/*去除超链接下滑线*/
+}
+#xuetuangongzuo li a:hover
+{
+	color: red;
+	
+}
+#right{
+	width:329px;
+	height:900px;
+	margin-right:10px;
+	float:left;
+	
+}
+#r1{
+	width:329px;
+	height:276px;
+	margin-bottom:10px;
+}
+#rollup{
+	margin: 0px auto;
+	
+}
+#littlehead
+{
+	border-top-left-radius:15px;
+	border-top-right-radius:15px; 
+	width: 270px;
+	height: 35px;
+	border: 1px solid #d8e9f9;
+	margin-top: 15px;
+}
+#littlehead p
+{
+	margin-top: 8px;
+	font-size: 9px;
+	font-family: Microsoft YaHei;
+	font-weight: bold;
+}
+#rollup li a
+{
+	letter-spacing:-1px;
+	color: #666666;
+	font-size: 13px;
+	border-bottom: 1px dashed gray;
+	padding-bottom:5px;
+	text-decoration:none;/*去除超链接下滑线*/
+}
+#rollup li a:hover
+{
+	color: red;
+	
+}
+#r2{
+	width:329px;
+	height:290px;
+	margin-bottom:10px;
+	
+}
+#yanjiushengjiaoyu li a
+{
+	letter-spacing:-1px;
+	color: #000000;
+	font-size: 13px;
+	border-bottom: 1px dashed gray;
+	padding-bottom:3px;
+	text-decoration:none;/*去除超链接下滑线*/
+	margin-left:-5px; 
+}
+#yanjiushengjiaoyu li a:hover
+{
+	color: red;
+	
+}
+#r3{
+	width:329px;
+	height:300px;
+}
+#xiazai li a
+{
+	letter-spacing:-1px;
+	color: #000000;
+	font-size: 13px;
+	border-bottom: 1px dashed gray;
+	padding-bottom:3px;
+	text-decoration:none;/*去除超链接下滑线*/
+	margin-left:-5px; 
+}
+#xiaza li a:hover
+{
+	color: red;
+	
+}
+#end{
+	width:1027px;
+	height:110px;
+	
+}
